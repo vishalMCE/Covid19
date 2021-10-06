@@ -4,7 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/DATA/Android_Studio/Covid19/app/src/main/res/layout/activity_detail.xml" value="0.24909420289855072" />
+        <entry key="..\:/DATA/covid/Covid19/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2046875" />
+        <entry key="..\:/DATA/covid/Covid19/app/src/main/res/drawable/edittext_shadow.xml" value="0.2046875" />
+        <entry key="..\:/DATA/covid/Covid19/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2046875" />
         <entry key="..\:/DATA/covid/Covid19/app/src/main/res/layout/activity_detail.xml" value="0.29846014492753625" />
+        <entry key="..\:/DATA/covid/Covid19/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.32407407407407407" />
+        <entry key="..\:/DATA/covid/Covid19/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2490740740740741" />
       </map>
     </option>
   </component>
