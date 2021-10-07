@@ -134,6 +134,14 @@
                 >
             </com.leo.simplearcloader.SimpleArcLoader>
 
+            <Button
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:id="@+id/refresh"
+                android:background="@drawable/refresh"
+                android:layout_centerInParent="true"
+                android:visibility="invisible" />
+
             <ScrollView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -450,12 +458,18 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_margin="20dp"
-        android:background="@color/color_one"
-        android:text="Track Countries"
-        android:textColor="@android:color/white"
-        android:textSize="18sp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="@color/active"
+        android:onClick="goTrackCountries"
         android:padding="5dp"
-        android:onClick="goTrackCountries"/>
+        android:text="Track Countries"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:textColor="@color/ic_launcher_background"
+        android:textSize="18sp" />
+
 
 </RelativeLayout>
